@@ -6,9 +6,9 @@ Metodologia com criatividade. Tecnologia com propósito. E, claro, um pouco de c
 
 ### 💡 Interesses
 
-- Ciência de Dados
-- Desenvolvimento de Software
-- Metodologias Ágeis e Criativas
+- Ciência de dados
+- Otimização e automação de processos
+- Metodologias ágeis, criatividade e boas práticas
 
 ---
 
