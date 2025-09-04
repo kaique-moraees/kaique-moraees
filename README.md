@@ -1,6 +1,8 @@
 ## Olá, eu sou o Kaique Moraes! 🔢
 
-Metodologia com criatividade. Tecnologia com propósito. E, claro, um pouco de café. ☕️
+Dados com conhecimento. Tecnologia com propósito. Metodologia com criatividade. 
+
+E, claro, um pouco de café. ☕️
 
 ---
 
