@@ -2,15 +2,13 @@
 
 Dados com conhecimento. Tecnologia com propósito. Metodologia com criatividade. 
 
-E, claro, um pouco de café. ☕️
-
 ---
 
 ### 💡 Interesses
 
 - Ciência de dados
 - Otimização e automação de processos
-- Metodologias ágeis, criatividade e boas práticas
+- Metodologias ágeis e boas práticas
 
 ---
 
