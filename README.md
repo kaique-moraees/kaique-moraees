@@ -1,18 +1,17 @@
-## Olá, eu sou o Kaique Moraes! 🔢
+Hi, I'm Kaique Moraes! 🔢
 
-Dados com conhecimento. Tecnologia com propósito. Metodologia com criatividade. 
-
----
-
-### 💡 Interesses
-
-- Ciência de dados
-- Otimização e automação de processos
-- Metodologias ágeis e boas práticas
+Data with knowledge. Technology with purpose. Methodology with creativity.
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### 💡 Interests
+
+- Data Science
+- Process Optimization and Automation
+- Agile Methodologies and Best Practices
+---
+
+### 🛠️ Technologies and Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
@@ -24,4 +23,4 @@ Dados com conhecimento. Tecnologia com propósito. Metodologia com criatividade.
 
 ---
 
-> _"Quanto mais dados, melhor a estimativa."_
+> _"The more data, the better the estimate."_
