@@ -31,4 +31,4 @@ Data with knowledge. Technology with purpose. Methodology with creativity.
 
 ---
 
-> _"The more data, the better the estimate."_
+> _"The more data you have, the better your estimate — provided the data is good."_
