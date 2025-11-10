@@ -30,5 +30,14 @@ Data with knowledge. Technology with purpose. Methodology with creativity.
 ![Databricks](https://img.shields.io/badge/Databricks-FF6F20?style=flat&logo=databricks&logoColor=white)
 
 ---
+## Performance
+<div>
+  <a href="https://github.com/kaique-moraees">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kaique-moraees&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaique-moraees&layout=compact&langs_count=7&theme=github_dark"/>
+  </a>
+</div>
+
+--- 
 
 > _"The more data you have, the better your estimate — provided the data is good."_
