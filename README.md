@@ -4,7 +4,7 @@ Data with knowledge. Technology with purpose. Methodology with creativity.
 
 ---
 
-### 💡 Interests
+## 💡 Interests
 
 - Data Science
 - Software Engineering
@@ -13,7 +13,7 @@ Data with knowledge. Technology with purpose. Methodology with creativity.
   
 ---
 
-### 🛠️ Technologies and Tools
+## 🛠️ Technologies and Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
@@ -31,12 +31,12 @@ Data with knowledge. Technology with purpose. Methodology with creativity.
 
 ---
 ## Performance
-<div>
-  <a href="https://github.com/kaique-moraees">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kaique-moraees&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaique-moraees&layout=compact&langs_count=7&theme=github_dark"/>
-  </a>
-</div>
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats-kappa-ivory.vercel.app/api?username=kaique-moraees&show_icons=true&theme=github_dark"/>
+  <img height="160em" src="https://github-readme-stats-kappa-ivory.vercel.app/api/top-langs/?username=kaique-moraees&layout=compact&langs_count=7&theme=github_dark"/>
+</p>
+
 
 --- 
 
