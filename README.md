@@ -31,10 +31,13 @@ Data with knowledge. Technology with purpose. Methodology with creativity.
 
 ---
 ## Performance
-
 <p align="center">
-  <img height="160em" src="https://github-readme-stats-kappa-ivory.vercel.app/api?username=kaique-moraees&show_icons=true&theme=github_dark"/>
-  <img height="160em" src="https://github-readme-stats-kappa-ivory.vercel.app/api/top-langs/?username=kaique-moraees&layout=compact&langs_count=7&theme=github_dark"/>
+  <img 
+    src="https://github-readme-stats-kappa-ivory.vercel.app/api?username=kaique-moraees&show_icons=true&theme=github_dark&cache_seconds=86400" 
+    width="350"/>
+  <img 
+    src="https://github-readme-stats-kappa-ivory.vercel.app/api/top-langs/?username=kaique-moraees&layout=compact&langs_count=7&theme=github_dark&cache_seconds=86400" 
+    width="350"/>
 </p>
 
 
