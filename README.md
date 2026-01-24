@@ -34,13 +34,14 @@ Data with knowledge. Technology with purpose. Methodology with creativity.
 
 ---
 ## Performance
+
 <p align="center">
-  <img 
-    src="https://github-readme-stats-kappa-ivory.vercel.app/api?username=kaique-moraees&show_icons=true&theme=github_dark&cache_seconds=86400" 
-    width="350"/>
-  <img 
-    src="https://github-readme-stats-kappa-ivory.vercel.app/api/top-langs/?username=kaique-moraees&layout=compact&langs_count=7&theme=github_dark&cache_seconds=86400" 
-    width="350"/>
+  <section align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=kaique-moraees&show_icons=true&theme=dark" alt="GitHub Stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaique-moraees&theme=dark" alt="GitHub Streak"  style="margin-right: 20px;">
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaique-moraees&layout=compact&theme=dark" alt="Top Languages">
+  </section>
 </p>
 
 
