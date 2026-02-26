@@ -36,13 +36,14 @@ Data with knowledge. Technology with purpose. Methodology with creativity.
 ## Performance
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaique-moraees&show_icons=true&theme=dark" width="400px" />
-  
-  <img src="https://streak-stats.demolab.com/?user=kaique-moraees&theme=dark" width="425px" />
-  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaique-moraees&theme=monokai" width="100%" />
+  <br><br> 
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kaique-moraees&theme=monokai" width="400px" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kaique-moraees&theme=monokai" width="400px" />
   <br><br>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaique-moraees&layout=compact&theme=dark" width="400px" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kaique-moraees&theme=monokai" width="400px" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kaique-moraees&theme=monokai&utcOffset=-3" width="400px" />
+
 </div>
 
 --- 
