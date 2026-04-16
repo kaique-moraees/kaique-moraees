@@ -38,11 +38,11 @@ Data with knowledge. Technology with purpose. Methodology with creativity.
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaique-moraees&theme=solarized" width="80%" />
   <br><br> 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kaique-moraees&theme=solarized" width="375px" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kaique-moraees&theme=solarized" width="375px" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kaique-moraees&theme=solarized" width="40%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kaique-moraees&theme=solarized" width="40%" />
   <br><br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kaique-moraees&theme=solarized" width="375px" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kaique-moraees&theme=solarized&utcOffset=-3" width="375px" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kaique-moraees&theme=solarized" width="40%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kaique-moraees&theme=solarized&utcOffset=-3" width="40%" />
 
 </div>
 
