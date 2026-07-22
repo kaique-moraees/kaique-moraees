@@ -1,19 +1,15 @@
-  # Hi, I'm Kaique Moraes! 🔢
+# Hi, I'm Kaique Moraes! 
 
 Data with knowledge. Technology with purpose. Methodology with creativity.
 
----
-
-## 💡 Interests
+## Interests
 
 - Data Science
 - Software Engineering
-- Process Optimization and automation
-- Methodologies and better practices
+- Process Optimization and Automation
+- Methodologies and Better Practices
   
----
-
-## 🛠️ Technologies and Tools
+## Technologies and Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
@@ -32,20 +28,41 @@ Data with knowledge. Technology with purpose. Methodology with creativity.
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=microsoft&logoColor=black)
 ![Databricks](https://img.shields.io/badge/Databricks-FF6F20?style=flat&logo=databricks&logoColor=white)
 
----
 ## Performance
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaique-moraees&theme=solarized" width="80%" />
-  <br><br> 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kaique-moraees&theme=solarized" width="40%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kaique-moraees&theme=solarized" width="40%" />
-  <br><br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kaique-moraees&theme=solarized" width="40%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kaique-moraees&theme=solarized&utcOffset=-3" width="40%" />
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaique-moraees&theme=github_dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaique-moraees&theme=default">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaique-moraees&theme=default" width="80%">
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kaique-moraees&theme=github_dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kaique-moraees&theme=default">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kaique-moraees&theme=default" width="40%">
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kaique-moraees&theme=github_dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kaique-moraees&theme=default">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kaique-moraees&theme=default" width="40%">
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kaique-moraees&theme=github_dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kaique-moraees&theme=default">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kaique-moraees&theme=default" width="40%">
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kaique-moraees&theme=github_dark&utcOffset=-3">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kaique-moraees&theme=default&utcOffset=-3">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kaique-moraees&theme=default&utcOffset=-3" width="40%">
+  </picture>
 
 </div>
 
---- 
 
 > _"The more data you have, the better your estimate — provided the data is good."_
